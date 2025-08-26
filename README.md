@@ -13,17 +13,4 @@ This project demonstrates how modern encryption works in real-world applications
 - Base64 encoded Ciphertext and IV
 - Tkinter-based GUI for easy interaction
 
----
 
-## 📸 Screenshots
-### Encryption & Decryption in Action:
-![AES GUI Screenshot](AES_encryption.png)
-
----
-
-## 🚀 Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/AES-Encryption-Decryption-GUI.git
-   cd AES-Encryption-Decryption-GUI
